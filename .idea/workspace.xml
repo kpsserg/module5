@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0299e6d-9d30-4d58-bf9f-bc257c01488a" name="Changes" comment="new file module5_lesson_1">
+    <list default="true" id="b0299e6d-9d30-4d58-bf9f-bc257c01488a" name="Changes" comment="HomeWork - module_5_1.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/module5_lesson_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/module5_lesson_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kpsserg"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kpsserg&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kpsserg/module5.git",
-    "accountId": "fd582c55-82af-4c68-a56c-9652b0f331be"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kpsserg/module5.git&quot;,
+    &quot;accountId&quot;: &quot;fd582c55-82af-4c68-a56c-9652b0f331be&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2oUX2xpNg27NFIbIcAHqy39etk0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,8 +46,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.module5_lesson_1.executor": "Run",
+    "Python.module_5_1.executor": "Run",
+    "Python.module_5_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -83,12 +85,45 @@
       <option name="project" value="LOCAL" />
       <updated>1730925618436</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HomeWork - module_5_1.py">
+      <option name="closed" value="true" />
+      <created>1730927500015</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730927500015</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HomeWork - module_5_1.py">
+      <option name="closed" value="true" />
+      <created>1730927519825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730927519825</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HomeWork - module_5_1.py">
+      <option name="closed" value="true" />
+      <created>1730927526217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730927526217</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HomeWork - module_5_1.py">
+      <option name="closed" value="true" />
+      <created>1730928054351</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730928054351</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new module5" />
     <MESSAGE value="new file module5_lesson_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file module5_lesson_1" />
+    <MESSAGE value="HomeWork - module_5_1.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork - module_5_1.py" />
   </component>
 </project>
