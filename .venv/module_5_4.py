@@ -1,9 +1,23 @@
 class House:
+    houses_history = []
+
+    def __new__(cls, *args, **kwargs):
+        # print(args)
+        # print(kwargs)
+        # print(args[0])
+        cls.houses_history.append(args[0])
+        return object.__new__(cls)
+
+    def __del__(self):
+        print(f"{self.name} снесён, но он останется в истории")
+
+
 
     def __init__(self, name, number_of_floors):
         self.name = name
         self.number_of_floors = number_of_floors
-        #help(type(self))
+        print(self.houses_history)
+        # help(type(self))
 
     def __str__(self):
         return f'Название {self.name}, количество этажей {self.number_of_floors}'
@@ -73,32 +87,8 @@ class House:
 
 h1 = House('ЖК Эльбрус', 10)
 h2 = House('ЖК Акация', 20)
+h3 = House('ЖК Матрёшки', 20)
 
-print(h1)
-print(h2)
-
-print(h1 == h2) # __eq__
-
-h1 = h1 + 10 # __add__
-print(h1)
-
-print(h1 == h2)
-
-h1 += 10 # __iadd__
-print(h1)
-
-h2 = 10 + h2 # __radd__
-print(h2)
-
-print(h1 > h2) # __gt__
-print(h1 >= h2) # __ge__
-print(h1 < h2) # __lt__
-print(h1 <= h2) # __le__
-print(h1 != h2) # __ne__
-
-print(h1.__dict__)
-h1.fundament = False
-print(h1.__dict__)
-print(h1.fundament)
-print(h2.__dict__)
-print(h2.fundament)
+del(h1)
+del(h2)
+print(House.houses_history)
