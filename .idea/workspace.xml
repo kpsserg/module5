@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0299e6d-9d30-4d58-bf9f-bc257c01488a" name="Changes" comment="HomeWork - module_5_3.py">
+    <list default="true" id="b0299e6d-9d30-4d58-bf9f-bc257c01488a" name="Changes" comment="HomeWork - module_5_4.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/module_5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/module_5_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/module_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/module_5_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.black_jack.executor": "Run",
     "Python.lesson_5_5.executor": "Run",
     "Python.lesson_5_6.executor": "Run",
     "Python.module5_lesson_1.executor": "Run",
@@ -56,6 +55,9 @@
     "Python.module_5_4.executor": "Run",
     "Python.module_5_4_short.executor": "Run",
     "Python.rectangle.executor": "Run",
+    "Python.sosudi_i_voda.executor": "Run",
+    "Python.sosudi_i_voda2.executor": "Run",
+    "Python.vlad_romain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -187,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731184183532</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="HomeWork - module_5_4.py">
+      <option name="closed" value="true" />
+      <created>1731271964276</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731271964276</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,6 +206,7 @@
     <MESSAGE value="HomeWork - module_5_1.py" />
     <MESSAGE value="HomeWork - module_5_2.py" />
     <MESSAGE value="HomeWork - module_5_3.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork - module_5_3.py" />
+    <MESSAGE value="HomeWork - module_5_4.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork - module_5_4.py" />
   </component>
 </project>
